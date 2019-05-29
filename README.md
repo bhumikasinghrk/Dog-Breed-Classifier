@@ -1,5 +1,5 @@
 ## Overview
-This is a more reader-friendly version of a project I worked on as part of my Udacity Machine Learning Nanodegree. 
+This is a more reader-friendly version of a project I worked on as part of my Udacity Machine Learning Nanodegree. The dataset for the model is available [here](http://vision.stanford.edu/aditya86/ImageNetDogs/).
 
 ## Data
 The training data for this project is located here. This dataset contains 133 different breeds of dogs and is already split into train, test, and validation sets. Place the training, testing, and validation datasets in the dogImages folder.
